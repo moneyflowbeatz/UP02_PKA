@@ -1,0 +1,6 @@
+D:\Документы-stud\IP213\UP\d3\LearnClassLibrary\LearnClassLibrary\bin\Debug\LearnClassLibrary.dll
+D:\Документы-stud\IP213\UP\d3\LearnClassLibrary\LearnClassLibrary\bin\Debug\LearnClassLibrary.pdb
+D:\Документы-stud\IP213\UP\d3\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.csproj.AssemblyReference.cache
+D:\Документы-stud\IP213\UP\d3\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.csproj.CoreCompileInputs.cache
+D:\Документы-stud\IP213\UP\d3\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.dll
+D:\Документы-stud\IP213\UP\d3\LearnClassLibrary\LearnClassLibrary\obj\Debug\LearnClassLibrary.pdb
